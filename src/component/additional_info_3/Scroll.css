@@ -1,0 +1,24 @@
+.main {
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.main_text {
+    font-size: 30px;
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.main_Scroll {
+    background-color: blue;
+    padding: 20px;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    gap: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}

@@ -1,0 +1,21 @@
+ .PW1 {
+     margin-left: 50px;
+     margin-right: 50px;
+     margin-bottom: 100px;
+     background-color: rgb(255, 255, 255);
+     width: 450px;
+     height: 350px;
+     border-radius: 20px;
+     /* text-align: center; */
+     padding-top: 20px;
+ }
+
+
+ /* .PW1_button{
+   
+ } */
+
+
+ .PW1_text1{
+    margin-left: 20px;
+ }

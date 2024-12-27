@@ -1,0 +1,63 @@
+.Application {
+    width: 1312px;
+    height: 536px;
+    background-color: rgb(195, 199, 254);
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.Application_main-block {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+.Application_main-block_text {
+    font-size: 83px;
+    margin-left: 20px;
+    margin-top: 65px;
+}
+
+.Application_main-block_button {
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Application_main-block_London {
+    position: absolute;
+    top: 336px;
+    left: 360px;
+}
+
+.Application_main-block_moon {
+    position: absolute;
+    top: 133px;
+    left: 843px;
+}
+
+.Application_main-block_star1 {
+    position: absolute;
+    top: 232px;
+    left: 821px;
+}
+
+.Application_blok1_book {
+    width: 428px;
+    height: 254px;
+}
+
+.Application_blok2_tags {
+    width: 428px;
+    height: 254px;
+}

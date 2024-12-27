@@ -1,0 +1,80 @@
+.ExpressDive {
+    background-color: gold;
+    padding-bottom: 60px;
+}
+
+.ExpressDive_text {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    width: 1531px;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.hh1 {
+    background-color: aliceblue;
+    width: 490px;
+    height: 49px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+
+.ExpressDive_MainBlock {
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.ExpressDive_Block_1 {
+    width: 650px;
+    height: 530px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.ExpressDive_Block_1_text {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ExpressDive_Block_1_input {
+    display: flex;
+    flex-direction: column;
+    margin-left: 87px;
+}
+
+.input1 {
+    margin-top: 10px;
+    width: 478px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: #e5e7f5;
+}
+
+
+.ExpressDive_Block_1_link {
+    width: 500px;
+    margin-left: 87px;
+}
+
+
+.ExpressDive_Block_1_button {
+    margin-top: 42px;
+    width: 493px;
+    margin-left: 78px;
+    height: 67px;
+    background-color: rgb(255, 183, 0);
+    border-radius: 29px;
+    text-align: center;
+}

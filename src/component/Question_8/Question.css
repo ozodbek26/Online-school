@@ -1,0 +1,12 @@
+.Question {
+    padding-top: 53px;
+    padding-bottom: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.Question_block {
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}

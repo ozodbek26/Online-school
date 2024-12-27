@@ -1,0 +1,18 @@
+.Program_block_1 {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Program_block_2 {
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+    margin: auto;
+}
+
+.Program_button{
+    margin-top: 5px;
+}

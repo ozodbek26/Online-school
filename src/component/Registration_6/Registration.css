@@ -1,0 +1,72 @@
+.Registration {
+    padding-top: 53px;
+    background-color: gold;
+    height: 316px;
+}
+
+.Registration_form {
+    margin: auto;
+    width: 1300px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.Registration_form_text {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: auto;
+}
+
+.Registration_form_img {
+    width: 172px;
+    height: 58px;
+}
+
+.Registration_form_input {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.input {
+    margin-top: 10px;
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: #e5e7f5;
+}
+
+.f1 {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: 20px;
+}
+
+.f1_text {
+    margin-top: 1px;
+}
+
+.input_big {
+    width: 75px;
+    left: 1573px;
+    position: absolute;
+}
+   
+.input_flag {
+    left: 198px;
+    width: 268px;
+    position: absolute;
+}
+
+

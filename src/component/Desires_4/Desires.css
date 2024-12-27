@@ -1,0 +1,24 @@
+.Desires{
+    background-color: rgb(229, 255, 0);
+    padding-top: 30px;
+    margin-bottom: 20px;
+    height: 320px;
+}
+
+
+.Desires_text {
+    font-size: 30px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.Desires_Scroll {
+    background-color: blue;
+    padding: 20px;
+    overflow-x: auto;
+    white-space: nowrap;
+    display: flex;
+    gap: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
